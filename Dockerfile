@@ -1,4 +1,4 @@
-FROM ruby:2.5
+FROM ruby:2.5.0
 MAINTAINER HowToHireMe Team <opensource@howtohireme.ru>
 
 RUN apt-get -y update
